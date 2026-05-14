@@ -28,9 +28,16 @@ Soy cliente habitual en "El café de tu esquina", un pequeño café de barrio **
 
 - **Inaccesibilidad:** Dificultad para **ver la carta** o **confirmar horarios sin tener una cuenta en Instagram.** Además me pregunté **"¿qué pasa si no sé o no acostumbro a usar redes sociales?"**
   
-**- Incertidumbre:** Falta de claridad sobre **cierres por feriados o cambios de temporada** (otoño/invierno).
+- **Incertidumbre:** Falta de claridad sobre **cierres por feriados o cambios de temporada** (otoño/invierno).
 
-**- "Qué cosas me frustran como cliente?":** **pensé en mi experiencia de usuario** al depender de Instagram, **qué cosas me frustran cuando quiero ir a tomar un café ahí, qué me gustaría tener a mano para consultar, y cómo facilitarle la experiencia a otros clientes.**
+- **"Qué cosas me frustran como cliente?":** **pensé en mi experiencia de usuario** al depender de Instagram, **qué cosas me frustran cuando quiero ir a tomar un café ahí, qué me gustaría tener a mano para consultar, y cómo facilitarle la experiencia a otros clientes.**
+
+## Documentación e informes de pruebas
+
+- **[Análisis de requerimientos](https://docs.google.com/document/d/1BNtIbPLLh9NjbUcdmjzLmW_NP7zKMIR0hvSiDBaBNF4/edit?usp=sharing)**
+- **[Solución propuesta](https://docs.google.com/document/d/1BNtIbPLLh9NjbUcdmjzLmW_NP7zKMIR0hvSiDBaBNF4/edit?tab=t.ajpmwykrldbn)**
+- **[Plan de pruebas](https://docs.google.com/document/d/1BNtIbPLLh9NjbUcdmjzLmW_NP7zKMIR0hvSiDBaBNF4/edit?tab=t.vj9lsjvhd7rg)**
+- **[Casos de prueba](https://docs.google.com/document/d/1BNtIbPLLh9NjbUcdmjzLmW_NP7zKMIR0hvSiDBaBNF4/edit?tab=t.vj9lsjvhd7rg)**
 
 
 ## Herramientas usadas
