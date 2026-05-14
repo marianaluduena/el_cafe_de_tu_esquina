@@ -24,20 +24,22 @@ A personal project for a real client (a coffee shop)
 
 ## Cómo abordé este proyecto?
 
-Soy cliente habitual en "El café de tu esquina", un pequeño café de barrio (el nombre fue alterado por cuestiones de privacidad del cliente). Hablando con el dueño del local y desde mi punto de vista como cliente, detecté "puntos de dolor" críticos para los demás clientes al depender exclusivamente de consultar el Instagram del negocio:
+Soy cliente habitual en "El café de tu esquina", un pequeño café de barrio **(el nombre fue alterado por cuestiones de privacidad del cliente).** **Hablando con el dueño del local** y **desde mi punto de vista como cliente, detecté "puntos de dolor" críticos** para los demás **clientes al depender exclusivamente de consultar el Instagram del negocio:**
 
-- Inaccesibilidad: Dificultad para ver la carta o confirmar horarios sin tener una cuenta en Instagram. Además me pregunté "¿qué pasa si no sé o no acostumbro a usar redes sociales?"
+- **Inaccesibilidad:** Dificultad para **ver la carta** o **confirmar horarios sin tener una cuenta en Instagram.** Además me pregunté **"¿qué pasa si no sé o no acostumbro a usar redes sociales?"**
   
-- Incertidumbre: Falta de claridad sobre cierres por feriados o cambios de temporada (otoño/invierno).
+**- Incertidumbre:** Falta de claridad sobre **cierres por feriados o cambios de temporada** (otoño/invierno).
 
-- "Qué cosas me frustran como cliente?": pensé en mi experiencia de usuario al depender de Instagram, qué cosas me frustran cuando quiero ir a tomar un café ahí, qué me gustaría tener a mano para consultar, y cómo facilitarle la experiencia a otros clientes.
+**- "Qué cosas me frustran como cliente?":** **pensé en mi experiencia de usuario** al depender de Instagram, **qué cosas me frustran cuando quiero ir a tomar un café ahí, qué me gustaría tener a mano para consultar, y cómo facilitarle la experiencia a otros clientes.**
 
 
 ## Herramientas usadas
 
   
-- **Gemini Gems:** una gema creada por mí con un prompt específico y detallado para armado de casos de prueba en base a requerimientos, historias de usuario y criterios de aceptación.
+- **Gemini Gems:** una gema creada por mí con un prompt específico y detallado para **armado de casos de prueba en base a requerimientos, historias de usuario y criterios de aceptación.**
 
-- **Gemini:** para creación de la web app e historias de usuario con criterios de aceptación.
+- **Gemini:** para **creación de la web app** e **historias de usuario con criterios de aceptación.***
   
-- **Trello:** para gestión ágil del proyecto.
+- **Trello:** para **gestión ágil** del proyecto.
+  
+- **Google sheets:** para análisis de negocio, análisis de requerimientos, solución implementada, estrategia de testing, casos de prueba e informes finales.
