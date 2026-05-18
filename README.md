@@ -37,7 +37,7 @@ Soy cliente habitual en "El café de tu esquina", un pequeño café de barrio **
 - **[Análisis de requerimientos](https://docs.google.com/document/d/1BNtIbPLLh9NjbUcdmjzLmW_NP7zKMIR0hvSiDBaBNF4/edit?usp=sharing)**
 - **[Solución propuesta](https://docs.google.com/document/d/1BNtIbPLLh9NjbUcdmjzLmW_NP7zKMIR0hvSiDBaBNF4/edit?tab=t.ajpmwykrldbn)**
 - **[Plan de pruebas](https://docs.google.com/document/d/1BNtIbPLLh9NjbUcdmjzLmW_NP7zKMIR0hvSiDBaBNF4/edit?tab=t.vj9lsjvhd7rg)**
-- **[Casos de prueba](https://docs.google.com/document/d/1BNtIbPLLh9NjbUcdmjzLmW_NP7zKMIR0hvSiDBaBNF4/edit?tab=t.vj9lsjvhd7rg)**
+- **[Casos de prueba](https://docs.google.com/document/d/1BNtIbPLLh9NjbUcdmjzLmW_NP7zKMIR0hvSiDBaBNF4/edit?tab=t.ky1z7pcnne8)**
 
 
 ## Herramientas usadas
