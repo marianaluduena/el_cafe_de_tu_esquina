@@ -2,7 +2,7 @@
 
 ## Overview del proyecto
 
-Proyecto personal para un cliente real (una cafetería).
+Proyecto personal para un cliente real (una cafetería). 
 
 Dividí este proyecto en 5 etapas:
 
@@ -12,7 +12,7 @@ Dividí este proyecto en 5 etapas:
   
 3. Creación de los casos de prueba.
   
-4. Implementación de la solución creando una **web app sencilla pero efectiva y funcional con IA.**
+4. Implementación de la solución creando una **web app sencilla pero efectiva y funcional con IA.** La web creada es accesible aquí: **[El café de tu esquina](https://marianaluduena.github.io/el_cafe_de_tu_esquina/)**
   
 5. Ejecución de los casos de prueba y generación de reportes.
   
