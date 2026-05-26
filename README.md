@@ -19,13 +19,13 @@ Dividí este proyecto en 5 etapas:
 
 ## Estructura de la aplicación
 
-el-cafe-de-tu-esquina/
-
-├── Carta Marzo 2026.pdf     # Menú completo del local
-├── index.html               # Estructura principal de la Web App
-├── style.css                # Estilos y diseño responsivo
-├── script.js                # Lógica de estados y feriados
-└── README.md                # Documentación del proyecto
+el-cafe-de-tu-esquina/ 
+├── css/                    # Estilos
+    ├── style.css                  
+├── javascript/             # Script para control de horarios y feriados
+│   ├── script.js
+├── Carta Marzo 2026.pdf    # Menú completo del local  
+├── index.html                  
   
 
 ## Cómo abordé este proyecto?
