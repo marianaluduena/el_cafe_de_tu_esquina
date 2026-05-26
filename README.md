@@ -19,6 +19,7 @@ Dividí este proyecto en 5 etapas:
 
 ## Estructura de la aplicación
 
+-- 
 el-cafe-de-tu-esquina/ 
 ├── css/                    # Estilos
     ├── style.css                  
@@ -27,7 +28,7 @@ el-cafe-de-tu-esquina/
 ├── Carta Marzo 2026.pdf    # Menú completo del local  
 ├── index.html                  
   
-
+-- 
 ## Cómo abordé este proyecto?
 
 Soy cliente habitual en "El café de tu esquina", un pequeño café de barrio **(el nombre fue alterado por cuestiones de privacidad del cliente).** **Hablando con el dueño del local** y **desde mi punto de vista como cliente, detecté "puntos de dolor" críticos** para los demás **clientes al depender exclusivamente de consultar el Instagram del negocio:**
