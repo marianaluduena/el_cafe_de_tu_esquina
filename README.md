@@ -20,6 +20,7 @@ Dividí este proyecto en 5 etapas:
 ## Estructura de la aplicación
 
 el-cafe-de-tu-esquina/
+
 ├── Carta Marzo 2026.pdf     # Menú completo del local
 ├── index.html               # Estructura principal de la Web App
 ├── style.css                # Estilos y diseño responsivo
