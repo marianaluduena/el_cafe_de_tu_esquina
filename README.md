@@ -15,12 +15,17 @@ Dividí este proyecto en 5 etapas:
 4. Implementación de la solución creando una **web app sencilla pero efectiva y funcional con IA.** La web creada es accesible aquí: **[El café de tu esquina](https://marianaluduena.github.io/el_cafe_de_tu_esquina/)**
   
 5. Ejecución de los casos de prueba y generación de reportes.
+
+
+## Estructura de la aplicación
+
+el-cafe-de-tu-esquina/
+├── Carta Marzo 2026.pdf     # Menú completo del local
+├── index.html               # Estructura principal de la Web App
+├── style.css                # Estilos y diseño responsivo
+├── script.js                # Lógica de estados y feriados
+└── README.md                # Documentación del proyecto
   
-
-## Project overview
-
-A personal project for a real client (a coffee shop)
-
 
 ## Cómo abordé este proyecto?
 
@@ -31,6 +36,7 @@ Soy cliente habitual en "El café de tu esquina", un pequeño café de barrio **
 - **Incertidumbre:** Falta de claridad sobre **cierres por feriados o cambios de temporada** (otoño/invierno).
 
 - **"Qué cosas me frustran como cliente?":** **pensé en mi experiencia de usuario** al depender de Instagram, **qué cosas me frustran cuando quiero ir a tomar un café ahí, qué me gustaría tener a mano para consultar, y cómo facilitarle la experiencia a otros clientes.**
+
 
 ## Documentación e informes de pruebas
 
