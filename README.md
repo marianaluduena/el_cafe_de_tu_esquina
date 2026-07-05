@@ -2,7 +2,7 @@
 
 ## Overview del proyecto
 
-Proyecto personal para un cliente real (una cafetería).
+Proyecto personal para un cliente real (una cafetería). 
 
 Dividí este proyecto en 5 etapas:
 
@@ -12,15 +12,24 @@ Dividí este proyecto en 5 etapas:
   
 3. Creación de los casos de prueba.
   
-4. Implementación de la solución creando una **web app sencilla pero efectiva y funcional con IA.**
+4. Implementación de la solución creando una **web app sencilla pero efectiva y funcional con IA.** La web creada es accesible aquí: **[El café de tu esquina](https://marianaluduena.github.io/el_cafe_de_tu_esquina/)**
   
 5. Ejecución de los casos de prueba y generación de reportes.
-  
 
-## Project overview
 
-A personal project for a real client (a coffee shop)
+## Estructura de la aplicación
 
+```
+
+el-cafe-de-tu-esquina/ 
+├── css/                    # Estilos
+    ├── style.css                  
+├── javascript/             # Script para control de horarios y feriados
+│   ├── script.js
+├── Carta Marzo 2026.pdf    # Menú completo del local  
+├── index.html                  
+
+```
 
 ## Cómo abordé este proyecto?
 
@@ -32,12 +41,15 @@ Soy cliente habitual en "El café de tu esquina", un pequeño café de barrio **
 
 - **"Qué cosas me frustran como cliente?":** **pensé en mi experiencia de usuario** al depender de Instagram, **qué cosas me frustran cuando quiero ir a tomar un café ahí, qué me gustaría tener a mano para consultar, y cómo facilitarle la experiencia a otros clientes.**
 
+
 ## Documentación e informes de pruebas
 
 - **[Análisis de requerimientos](https://docs.google.com/document/d/1BNtIbPLLh9NjbUcdmjzLmW_NP7zKMIR0hvSiDBaBNF4/edit?usp=sharing)**
 - **[Solución propuesta](https://docs.google.com/document/d/1BNtIbPLLh9NjbUcdmjzLmW_NP7zKMIR0hvSiDBaBNF4/edit?tab=t.ajpmwykrldbn)**
 - **[Plan de pruebas](https://docs.google.com/document/d/1BNtIbPLLh9NjbUcdmjzLmW_NP7zKMIR0hvSiDBaBNF4/edit?tab=t.vj9lsjvhd7rg)**
-- **[Casos de prueba](https://docs.google.com/document/d/1BNtIbPLLh9NjbUcdmjzLmW_NP7zKMIR0hvSiDBaBNF4/edit?tab=t.vj9lsjvhd7rg)**
+- **[Historias de usuario](https://docs.google.com/document/d/1BNtIbPLLh9NjbUcdmjzLmW_NP7zKMIR0hvSiDBaBNF4/edit?tab=t.52bg7jy6h4b1)**
+- **[Casos de prueba](https://docs.google.com/document/d/1BNtIbPLLh9NjbUcdmjzLmW_NP7zKMIR0hvSiDBaBNF4/edit?tab=t.ky1z7pcnne8)**
+- **[Reportes de bug](https://docs.google.com/document/d/1BNtIbPLLh9NjbUcdmjzLmW_NP7zKMIR0hvSiDBaBNF4/edit?tab=t.aglvohy366gs)**
 
 
 ## Herramientas usadas
