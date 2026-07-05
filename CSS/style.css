@@ -3,6 +3,7 @@
     --bg-body: #f8f9fa;
     --bg-card: #ffffff;
     --text-main: #2d3436;
+    --text-wsp: #2d3436;
     --text-muted: #636e72;
     --primary: #a67c52;
     --accent: #e9dcc9;
@@ -17,6 +18,7 @@
     --bg-body: #121212;
     --bg-card: #1e1e1e;
     --text-main: #f5f5f5;
+    --text-wsp: #a67c52;
     --text-muted: #b0b0b0;
     --primary: #d9a06f;
     --accent: #333333;
@@ -211,8 +213,8 @@ h2 {
     text-decoration: none;
 }
 .wa-msg {
-    background: white;
-    color: var(--text-main);
+    background: whitesmoke;
+    color: var(--text-wsp);
     padding: 12px 20px;
     border-radius: 20px 20px 0 20px;
     font-size: 0.85rem;
