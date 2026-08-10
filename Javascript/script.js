@@ -10,12 +10,17 @@ document.addEventListener('DOMContentLoaded', () => {
     // Base de datos de Feriados 2026
     const feriados = [
         { date: '2026-01-01', name: 'Año Nuevo' },
+        { date: '2026-02-16', name: 'Carnaval' },
+        { date: '2026-02-17', name: 'Carnaval' },
         { date: '2026-03-24', name: 'Día de la Memoria' },
         { date: '2026-04-02', name: 'Malvinas / Viernes Santo' },
         { date: '2026-05-01', name: 'Día del Trabajador' },
         { date: '2026-05-25', name: 'Revolución de Mayo' },
         { date: '2026-06-20', name: 'Día de la Bandera' },
         { date: '2026-07-09', name: 'Día de la Independencia' },
+        { date: '2026-08-17', name: 'Paso a la Inmortalidad del Gral. José de San Martín.' },
+        { date: '2026-10-12', name: 'Día de la Raza' },
+        { date: '2026-11-23', name: 'Día de la Soberanía Nacional' },
         { date: '2026-12-08', name: 'Inmaculada Concepción' },
         { date: '2026-12-25', name: 'Navidad' }
     ];
